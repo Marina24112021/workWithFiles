@@ -1,0 +1,14 @@
+{
+  "title": "The Art of Software Development",
+  "publishedYear": 2024,
+  "authors": [
+    {
+      "name": "John Doe",
+      "nationality": "British"
+    },
+    {
+      "name": "Jane Smith",
+      "nationality": "Spain"
+    }
+  ]
+}
